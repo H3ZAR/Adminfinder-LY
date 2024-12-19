@@ -8,5 +8,5 @@ To search for more than 350 control panels
 # perl Admin-LY.pl
 # ================================================
 # how to use ?
-#watch this video : https://youtu.be/3aJkjnjKF9I?si=JbP76C2OdcyASs7i
+#watch this video : https://youtu.be/YlPIgET5OE8
 
